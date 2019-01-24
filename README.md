@@ -14,3 +14,5 @@ Aplikasi Twitter dengan menggunakan NodeJS+ExpressJS dan MongoDB
 9. lanjutkan untuk library yang lainya
 
 Kenapa harus menginstall library? karena library dari nodejs tidak ikut tersimpan ketika di upload ke dalam github, jadi walaupun saya sudah menginstall library, tapi anda harus menginstallnya sendiri di komputer anda.
+
+Port yang saya gunakan untuk menjalankan server adalah 3030, jadi anda harus membuka localhost:3030 untuk menjalankan aplikasi
